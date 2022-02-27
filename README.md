@@ -1,4 +1,8 @@
-# [Metric Imperial Converter](https://metricimpconverter.katemills1.repl.co/)
+# [Metric Imperial Converter](https://metricimpconverter.kate-mills.repl.co/)
+
+
+First project in the Free Code Camp Quality Assurance Certification.
+
 
 ## Convert gal, km, lbs, kg
 
